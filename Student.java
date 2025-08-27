@@ -82,4 +82,10 @@ public class Student
     {
         System.out.println(name + ", student ID: " + id + ", credits: " + credits);
     }
+    private int number1;
+    private int number2;
+    public int average( int number1, int number2)
+    {
+        return number1;
+    }
 }
